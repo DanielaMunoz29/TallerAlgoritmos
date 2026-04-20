@@ -1,0 +1,20 @@
+algoritmo,lenguaje,tamano,tiempo_ms,complejidad_teorica
+Cocktail Sort,Python,10000,4159.4775,O(n^2)
+Dual-Pivot QuickSort,Python,10000,10.8372,O(n log n) promedio
+Heap Sort,Python,10000,26.9201,O(n log n)
+Merge Sort,Python,10000,26.9723,O(n log n)
+Radix Sort,Python,10000,26.9584,O(n*d)
+
+Cocktail Sort,Python,100000,419923.7596,O(n^2)
+Dual-Pivot QuickSort,Python,100000,144.0006,O(n log n) promedio
+Heap Sort,Python,100000,349.6293,O(n log n)
+Merge Sort,Python,100000,326.6647,O(n log n)
+Radix Sort,Python,100000,276.3725,O(n*d)
+
+Cocktail Sort,Python,1000000,No ejecutado,O(n^2)
+Dual-Pivot QuickSort,Python,1000000,1632.164,O(n log n) promedio
+Heap Sort,Python,1000000,4977.6404,O(n log n)
+Merge Sort,Python,1000000,3966.3353,O(n log n)
+Radix Sort,Python,1000000,3235.5028,O(n*d)
+
+

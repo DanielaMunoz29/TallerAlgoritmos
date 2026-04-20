@@ -1,0 +1,19 @@
+algoritmo,lenguaje,tamano,tiempo_ms,complejidad_teorica
+Cocktail Sort,Java,10000,88.6293,O(n^2)
+Dual-Pivot QuickSort,Java,10000,2.5695,O(n log n) promedio
+Heap Sort,Java,10000,3.0382,O(n log n)
+Merge Sort,Java,10000,2.9764,O(n log n)
+Radix Sort,Java,10000,3.4992,O(n*d)
+
+Cocktail Sort,Java,100000,14365.0023,O(n^2)
+Dual-Pivot QuickSort,Java,100000,8.6228,O(n log n) promedio
+Heap Sort,Java,100000,15.8889,O(n log n)
+Merge Sort,Java,100000,15.2052,O(n log n)
+Radix Sort,Java,100000,8.5702,O(n*d)
+
+Cocktail Sort,Java,1000000,No ejecutado,O(n^2)
+Dual-Pivot QuickSort,Java,1000000,103.2275,O(n log n) promedio
+Heap Sort,Java,1000000,175.6625,O(n log n)
+Merge Sort,Java,1000000,165.1398,O(n log n)
+Radix Sort,Java,1000000,54.8977,O(n*d)
+
